@@ -4,6 +4,9 @@
 
 **Read [disclaimer](#disclaimer) before using this software.*
 
+## About this fork
+
+* This fork adds support for t7000/s8000/s8003 (creds: [a1exdandy](https://github.com/a1exdandy))
 
 ## checkm8
 
